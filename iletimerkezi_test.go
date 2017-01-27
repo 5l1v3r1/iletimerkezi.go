@@ -2,6 +2,7 @@ package iletimerkezi_test
 
 import (
     "fmt"
+    "./iletimerkezi"
 )
 
 func main() {
